@@ -22,7 +22,7 @@ No JavaScript is used in this project.
 - CSS3
 
 ## Live Demo
-[View Live Project](GITHUB_PAGES_LINK_HERE)
+https://priyanshpanjabi0922.github.io/ToDo-list-ui/
 
 ## Notes
 This project is intentionally static and focuses on UI structure and styling.  
